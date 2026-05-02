@@ -5,8 +5,8 @@ import joblib
 import os
 
 # SHIFT STORAGE TO E: DRIVE
-os.environ['HF_HOME'] = 'E:/huggingface_cache'
-os.makedirs('E:/huggingface_cache', exist_ok=True)
+os.environ['HF_HOME'] = 'huggingface_cache'
+os.makedirs('huggingface_cache', exist_ok=True)
 
 print("Loading dataset...")
 script_dir = os.path.dirname(os.path.abspath(__file__))

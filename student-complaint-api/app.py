@@ -6,7 +6,7 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 from transformers import MarianMTModel, MarianTokenizer
 
-os.environ['HF_HOME'] = 'E:/huggingface_cache'
+os.environ['HF_HOME'] = 'huggingface_cache'
 
 app = Flask(__name__)
 CORS(app)

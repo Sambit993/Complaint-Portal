@@ -6,7 +6,7 @@ service cloud.firestore {
     
     // A helper function to check if we are still within the 30-day test window
     function isTestMode() {
-      return request.time < timestamp.date(2026, 4, 29);
+      return request.time < timestamp.date(2026, 12, 31);
     }
 
     // BACKEND VALIDATION FOR REGISTRATION
