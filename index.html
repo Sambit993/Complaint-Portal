@@ -952,13 +952,15 @@
             </div>
           </div>
           <div id="nlp-preview" class="nlp-preview">
-            <div id="analyzing-msg" class="analyzing">Analyzing…</div>
+            <div id="analyzing-msg" class="analyzing">✨ NLP Engine is analyzing your complaint…</div>
             <div id="nlp-result" style="display:none">
+              <div style="font-size:0.75rem; color:var(--accent2); margin-bottom:10px; font-weight:600; text-transform:uppercase; letter-spacing:1px;">✨ Automated NLP Routing System</div>
+              <div style="font-size:0.85rem; color:var(--muted); margin-bottom:12px;">Based on your description, our ML model has automatically determined the correct category, priority, and authority to route this complaint to.</div>
               <div class="nlp-row"><span class="nlp-label">Category</span><span id="p-category"
                   class="badge"></span><span class="nlp-label" style="margin-left:8px">Priority</span><span
                   id="p-priority" class="badge"></span></div>
               <div class="nlp-row"><span class="nlp-label">Authority</span><span id="p-authority"
-                  style="font-size:0.8rem;color:var(--text)"></span></div>
+                  style="font-size:0.8rem;color:var(--text);font-weight:bold;"></span></div>
             </div>
           </div>
           <button id="submit-btn" class="submit-btn" onclick="submitComplaint()">Submit Complaint →</button>
@@ -1251,7 +1253,8 @@
           category: data.category,
           priority: data.priority,
           authority: data.authority,
-          translated_text: data.translated_text || data.translated || text
+          translated_text: data.translated_text || data.translated || text,
+          reason: data.reason
         };
       }
 
@@ -1348,7 +1351,7 @@
           <span class="cc-id">#${c.id.substring(0, 6)} · ${c.submitted_at}</span>
         </div>
         <div class="cc-text">${c.complaint_text}</div>
-        ${c.reason ? `<div style="font-size:0.75rem;color:var(--accent2);margin-bottom:0.5rem;font-style:italic">AI: ${c.reason}</div>` : ''}
+        ${c.reason ? `<div style="font-size:0.75rem;color:var(--accent2);margin-bottom:0.5rem;font-style:italic">ML Analysis: ${c.reason}</div>` : ''}
         <div class="cc-info">→ ${c.authority}</div>
       </div>`;
           }).join('');
@@ -1393,7 +1396,7 @@
         </div>
         <div class="cc-text">${c.translated_text || c.complaint_text}</div>
         ${(c.translated_text && c.translated_text !== c.complaint_text) ? `<div style="font-size:0.8rem;color:var(--muted);margin-bottom:0.6rem;border-left:2px solid var(--border2);padding-left:8px;"><em>Original: ${c.complaint_text}</em></div>` : ''}
-        ${c.reason ? `<div style="font-size:0.75rem;color:var(--accent2);margin-bottom:0.6rem;font-style:italic">AI: ${c.reason}</div>` : ''}
+        ${c.reason ? `<div style="font-size:0.75rem;color:var(--accent2);margin-bottom:0.6rem;font-style:italic">ML Analysis: ${c.reason}</div>` : ''}
         <div class="cc-footer">
           <div class="cc-info">
             <strong style="color:var(--text)">${c.student_name}</strong> · ${c.roll_no} · ${c.department}<br>

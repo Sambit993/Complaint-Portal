@@ -206,23 +206,16 @@ Medical certificate not accepted	Administration	High
 স্পোর্টস সুবিধা নেই	Extracurricular	Low
 এটিএম নেই ক্যাম্পাসে	Infrastructure	Low
 রুম বরাদ্দ অন্যায্য	Hostel	Medium
-
-
 प्रोफेसर क्लास नहीं लेते	Academics	High
 हॉस्टल का खाना खराब है	Hostel	Medium
 लाइब्रेरी में किताबें नहीं मिलती	Library	Medium
 वाईफाई काम नहीं करता	Infrastructure	High
 फीस बहुत महंगी है	Finance	Medium
-पानी की समस्या है	Infrastructure	High
-बिजली बार बार जाती है	Infrastructure	High
 कैंटीन में सफाई नहीं है	Hostel	Medium
 परीक्षा का शेड्यूल देर से मिला	Academics	High
 क्लासरूम में पंखे खराब हैं	Infrastructure	Medium
 प्रैक्टिकल लैब में उपकरण पुराने हैं	Academics	Medium
-बस समय पर नहीं आती	Transport	Medium
-रूममेट से झगड़ा हो गया	Hostel	Low
 प्लेसमेंट सेल मदद नहीं करता	Placement	High
-मार्कशीट में गलती है	Academics	High
 स्कॉलरशिप नहीं मिली	Finance	High
 टॉयलेट साफ नहीं हैं	Infrastructure	High
 स्पोर्ट्स सुविधाएं कम हैं	Extracurricular	Low
@@ -375,14 +368,12 @@ Medical certificate not accepted	Administration	High
 ग्रेस मार्क्स नहीं मिलते	Academics	Medium
 अटेंडेंस कंडोन नहीं होता	Academics	High
 मेडिकल सर्टिफिकेट मान्य नहीं होता	Administration	High
-
 কাজ খুব ধীরে হয়	Office	Low
 ভাড়া অনেক বেশি	Transport	Medium
 পরীক্ষা দেরিতে হচ্ছে	Academics	Medium
 লাইব্রেরিতে সমস্যা আছে	Academics	Medium
 পড়ানো ভালো নয়	Academics	Medium
 ফ্যান কাজ করছে না	Infrastructure	High
-হোস্টেলে পানি নেই	Hostel	Medium
 সিলেবাস শেষ হয়নি	Academics	Low
 বাসে অনেক ভিড়	Transport	Low
 রুম নোংরা	Hostel	Low
@@ -616,3 +607,1087 @@ Medical certificate not accepted	Administration	High
 লেট ফাইন মকুব করার জন্য কার কাছে যাব?	Finance	Medium
 রিফান্ড পলিসি কোথায় লেখা আছে?	Finance	Low
 ক্যান্টিনে ইউপিআই স্ক্যানার কাজ করছে না	Facilities	Medium
+text	category	priority
+Campus surveillance covers only entry gate	Infrastructure	High
+CGPA shown on portal does not match marksheet	Academics	High
+No provision for online viva for outstation students	Academics	Medium
+Sick room in hostel has no basic medicines	Health	High
+ক্যাম্পাসে অ্যাম্বুলেন্স সেবা নেই	Health	High
+Campus map is outdated on official website	Administration	Low
+No process to appeal internal assessment marks	Academics	High
+Door lock in room 214 is broken	Hostel	High
+Photocopy machine in admin block always broken	Administration	Low
+No mechanism to dispute transport fee charges	Finance	Medium
+No option for students to evaluate course curriculum	Academics	Low
+Water supply in campus is irregular throughout the day	Infrastructure	High
+No study hall open during weekends	Library	Medium
+Classroom ventilation is poor in summer months	Infrastructure	Medium
+Language lab software is not updated	Academics	Medium
+Internal marks not visible on student portal	Academics	High
+Student login credentials not given on time	Administration	High
+Lab hazard warning signs are missing	Infrastructure	High
+No pick up point near the new hostel extension	Transport	Medium
+Elective subject registration portal keeps failing	Academics	High
+Anti-ragging committee contact not displayed anywhere	Administration	High
+হোস্টেলে চুরির ঘটনা ঘটেছে নিরাপত্তা নেই	Hostel	High
+Competitive exam coaching not available on campus	Academics	Medium
+No provision for late night study in campus	Library	Medium
+परीक्षा हॉल में पेयजल का प्रबंध नहीं है	Infrastructure	High
+No arrangement for online classes during floods	Academics	High
+कैंपस में घास-पत्ती जलाई जाती है जिससे प्रदूषण है	Environment	Medium
+No seminar participation certificate issued	Academics	Low
+हॉस्टल में कपड़े सूखाने की जगह नहीं है	Hostel	Low
+College does not conduct surprise safety inspections	Administration	Medium
+ব্যাকলগ পরীক্ষার সময়সূচি জানানো হয়নি	Academics	High
+Course completion percentage wrong in portal	Academics	High
+Placement drive companies are below expectation	Placement	High
+Student bus pass renewal takes more than 2 weeks	Transport	Medium
+No bus available on exam Saturdays	Transport	High
+Mess does not accommodate fasting students in Ramadan	Hostel	Medium
+No provision for grace attendance in medical emergencies	Academics	High
+Hostel water purifier has not been serviced	Hostel	High
+हॉस्टल के बाथरूम में दर्पण नहीं है	Hostel	Low
+Hostel room does not have enough electrical sockets	Hostel	Low
+Examination branch overcharges for duplicate marksheet	Finance	Medium
+Assignment word limit changed after submission	Academics	Medium
+Classroom whiteboard markers are never available	Infrastructure	Low
+ফি জমার সময়সীমা অনেক কম দেওয়া হয়েছে	Finance	High
+परीक्षा शुल्क जमा करने के बाद रसीद नहीं दी गई	Finance	High
+Parking area is not allocated for two-wheelers	Infrastructure	Low
+बोर्ड ऑफ स्टडीज में छात्र प्रतिनिधि नहीं	Administration	Medium
+Principal not accessible to students for complaints	Administration	High
+मेस में ताजा फल कभी नहीं मिलते	Hostel	Low
+No peer review system for student projects	Academics	Low
+Mess closes 15 minutes before announced time	Hostel	Medium
+No digital board for job openings in department	Placement	Medium
+No clear policy on academic probation for students	Administration	High
+Elevator in academic building is out of order	Infrastructure	Medium
+रात में हॉस्टल के बाहर रोशनी नहीं है	Infrastructure	High
+Annual day event not organized for two years	Extracurricular	Low
+परीक्षा का परिणाम पोर्टल पर नहीं दिखता	Academics	High
+Exam invigilator was using phone during exam	Academics	High
+ऑनलाइन पोर्टल में नाम बदलने का विकल्प नहीं	Administration	Medium
+परियोजना प्रस्तुति के लिए पर्याप्त समय नहीं दिया जाता	Academics	Medium
+Alumni mentorship program is inactive this year	Placement	Medium
+হোস্টেলে কোনো ইনডোর গেম সুবিধা নেই	Extracurricular	Low
+Thesis binding service on campus is overpriced	Finance	Low
+ছাত্রাবাসে নতুন কম্বল দেওয়া হয়নি শীতে	Hostel	Medium
+No special classes for students who failed mid-term	Academics	Medium
+প্লেসমেন্টের জন্য যোগ্যতার মানদণ্ড জানানো হয়নি	Placement	High
+फीस जमा करने पर रसीद नहीं मिली	Finance	High
+Night canteen inside hostel has been shut down	Hostel	Low
+ফি জমার রসিদ অনলাইনে পাওয়া যাচ্ছে না	Finance	High
+पुस्तकालय की वेबसाइट पर पुस्तक खोज का विकल्प नहीं	Library	Medium
+No provision for vegetarian students at dinner	Hostel	Medium
+লাইব্রেরিতে বসার চেয়ার ভাঙা	Library	Medium
+Department library hours conflict with regular schedule	Library	Medium
+মেস টাইমিং পরিবর্তন করা হয়েছে কিন্তু জানানো হয়নি	Hostel	Medium
+कैंटीन में खाना बनाते समय सफाई का ध्यान नहीं रखा जाता	Health	High
+Dissertation guide does not respond to emails	Academics	High
+Hostel students not informed about water tank cleaning	Hostel	Medium
+No summer school program offered by college	Academics	Low
+ফি জমা করার পরেও পোর্টালে আপডেট হয়নি	Finance	High
+College fails to send recommendation letters on time	Administration	High
+No tutorial support available for difficult subjects	Academics	Medium
+Food allergy options not available in mess	Hostel	High
+छात्र को बिना जानकारी दिए कक्षा से निकाला गया	Academics	High
+Lab assignment marks not reflected in portal	Academics	High
+Duplicate marksheet request pending for 2 months	Administration	High
+No water supply in canteen washrooms	Infrastructure	High
+Mess smart card is not rechargeable online	Finance	Medium
+क्लास में प्रोजेक्टर की रोशनी कम है	Infrastructure	Medium
+Lab equipment booking dates conflict with exam timetable	Academics	Medium
+ক্লাবের কার্যক্রমের জন্য ঘর বরাদ্দ নেই	Extracurricular	Low
+Resume shortlisting process is not transparent	Placement	High
+College stationery shop always runs out of stock	Infrastructure	Low
+Exam fee structure not mentioned in prospectus	Finance	Medium
+परीक्षा हॉल में बैठने की व्यवस्था ठीक नहीं है	Academics	High
+शिक्षकों के विरुद्ध शिकायत का कोई तंत्र नहीं है	Administration	High
+रात को मेस बंद होने पर कोई विकल्प नहीं	Hostel	Medium
+फीस पोर्टल पर रसीद डाउनलोड नहीं होती	Finance	High
+প্রতিযোগিতামূলক পরীক্ষার কোচিং নেই কলেজে	Academics	Medium
+Teaching plan not submitted by faculty to HoD	Academics	Medium
+Syllabus revision process does not involve students	Academics	Low
+Mock placement tests are not being organized	Academics	Medium
+हॉस्टल में नाश्ता बहुत देर से मिलता है	Hostel	Low
+परीक्षा केंद्र में कुर्सियाँ टूटी हुई थीं	Infrastructure	High
+Library does not subscribe to any research databases	Library	High
+No student welfare fund for emergency situations	Finance	High
+Mess serves same food repeatedly every week	Hostel	Medium
+Grade card has wrong subject codes	Academics	High
+No summer research fellowship provided by department	Academics	Medium
+Assignment deadline is too short to complete properly	Academics	Medium
+রাতে ক্যাম্পাসে নিরাপত্তা কম	Infrastructure	High
+No option to swap hostel rooms after allotment	Hostel	Low
+No mentoring for first-generation learners	Academics	High
+Placement eligibility criteria changed mid year	Placement	High
+College dispensary has no doctor on weekends	Health	High
+कैंपस में शाम को कोई सुरक्षा नहीं होती	Infrastructure	High
+क्लब की गतिविधियों के लिए कोई बजट नहीं है	Extracurricular	Low
+प्लेसमेंट परीक्षा का परिणाम आज तक घोषित नहीं हुआ	Placement	High
+No noise barrier between hostel and construction site	Hostel	High
+No centralized lost and found desk on campus	Administration	Low
+গবেষণাগারে কোনো প্রশিক্ষিত ল্যাব অ্যাসিস্ট্যান্ট নেই	Academics	High
+Practical exam evaluator was unfair in marking	Academics	High
+College entrance gate camera footage not shared with police	Administration	High
+শিক্ষার্থীদের ফিডব্যাক নেওয়া হয় না	Administration	Medium
+Projector remote is always missing in room 203	Infrastructure	Low
+Exam admit card has wrong photo uploaded	Academics	High
+ছাত্রাবাস থেকে কলেজ যাওয়ার কোনো বাস নেই	Transport	High
+छात्रों को नोटिस पोर्टल पर नहीं मिलता	Administration	Medium
+Hostel kitchen is closed for students on weekends	Hostel	Low
+Campus water supply has bad odor	Infrastructure	High
+Placement cell does not share off-campus drives	Placement	High
+Placement offer letter portal is not accessible	Placement	High
+Fee receipt not generated after online payment	Finance	High
+Room mate issue not handled by hostel admin	Hostel	Medium
+No bus available from railway station to college	Transport	Medium
+Medical certificate not accepted for exam absence	Health	High
+Canteen does not accept split payments	Finance	Low
+फिनल ईयर प्रोजेक्ट के लिए गाइड नहीं मिल रहा	Academics	High
+छात्रावास में खेल सुविधाएं पूरी तरह बंद हैं	Extracurricular	Low
+Student portal crashes during fee payment	Finance	High
+हॉस्टल में सोलर पैनल से पानी गर्म नहीं होता	Hostel	Medium
+Faculty meeting held during scheduled class hours	Academics	Medium
+No bridge course offered for lateral entry students	Academics	Medium
+No book bank facility available for poor students	Library	High
+No proper arrangement for students with vision impairment	Academics	High
+Hostel mess bill charged without itemized receipt	Finance	Medium
+রেজাল্টে গ্রেড ভুল হিসাব করা হয়েছে	Academics	High
+Library books are damaged and pages are missing	Library	Medium
+Students not allowed to audit courses from other depts	Academics	Medium
+Bus does not wait for students during exam time	Transport	High
+छात्रों की शिकायत का कोई लिखित जवाब नहीं मिलता	Administration	High
+College website is not mobile-friendly	Administration	Low
+कोर्स पूरा होने पर भी सर्टिफिकेट नहीं मिला	Academics	High
+মেস কর্মীর আচরণ ছাত্রছাত্রীদের সাথে ভালো নয়	Hostel	Medium
+No psychological counselor available during exams	Health	High
+Classroom doors are always stuck and hard to open	Infrastructure	Low
+No provision for voice amplification in large classrooms	Infrastructure	Medium
+कोर्स फीडबैक फॉर्म भरना अनिवार्य नहीं है इसलिए कोई नहीं भरता	Academics	Low
+No online complaint status tracking system	Administration	High
+Research lab access not given to UG students	Academics	Medium
+No online submission portal for internship report	Placement	Medium
+No post-placement support for joining formalities	Placement	Medium
+গবেষণাগারে রাসায়নিক দ্রব্য মেয়াদ উত্তীর্ণ	Academics	High
+বৃত্তির টাকা ভুল ব্যাংক অ্যাকাউন্টে গেছে	Finance	High
+हॉस्टल की छत से पानी टपकता है	Hostel	High
+No system to return unused exam answer sheets	Academics	Low
+Library fine receipt not issued after payment	Finance	Low
+No backup lecturer arrangement for sabbatical faculty	Academics	High
+स्टूडेंट पोर्टल पर लॉगिन नहीं हो पाता	Administration	High
+No inter-department sports competition organized	Extracurricular	Low
+পার্কিং এলাকায় অপর্যাপ্ত জায়গা	Infrastructure	Low
+No provision for students to check own answer scripts	Academics	Medium
+Viva examiners are biased towards certain students	Academics	High
+No proper protocol when a student goes missing	Administration	High
+No inter-college quiz participation opportunity	Extracurricular	Low
+बस कंडक्टर का व्यवहार ठीक नहीं है	Transport	Medium
+Library does not allow access to students with dues	Library	Medium
+Lab report submission through email not accepted	Academics	Low
+Mobile network is very weak inside academic block	Infrastructure	Medium
+No certification offered for extracurricular excellence	Extracurricular	Low
+NPTEL certificate not mapped to student profile	Academics	Medium
+ক্যান্টিনে নগদ ছাড়া পেমেন্ট হচ্ছে না	Finance	Medium
+No provision for storing bicycles on campus	Infrastructure	Low
+Roof leaks in department 4 during monsoon	Infrastructure	High
+No formal mechanism for interdepartmental complaints	Administration	High
+No guest house for visiting parents on campus	Infrastructure	Low
+New students not informed about bus route changes	Transport	Medium
+Campus cafe prices are unaffordable for rural students	Finance	Medium
+Scholarship not renewed despite eligible application	Finance	High
+Teachers sharing exam solutions on personal websites	Academics	Medium
+पुस्तकालय में ई-रिसोर्सेज एक्सेस नहीं मिलती	Library	High
+प्रोफेसर परीक्षा में व्यक्तिगत पसंद-नापसंद के आधार पर अंक देते हैं	Academics	High
+Hostel room allocation not done by choice	Hostel	Medium
+ছাত্র সংসদের নির্বাচন দুই বছর ধরে হচ্ছে না	Extracurricular	Medium
+पीएचडी दाखिले की प्रक्रिया अस्पष्ट है	Academics	Medium
+Teacher does not allow asking questions in class	Academics	Medium
+Course dropped without student notification	Academics	High
+প্রধান ফটকে নিরাপত্তারক্ষী থাকেন না রাতে	Infrastructure	High
+हॉस्टल में गर्म पानी की सुविधा नहीं है	Hostel	High
+GD topics are not relevant to current industry	Placement	Medium
+ऑनलाइन परीक्षा के दौरान नेटवर्क बहुत धीमा था	Infrastructure	High
+Insufficient lockers for students in academic block	Infrastructure	Low
+कैंपस में कहीं पीने का पानी नहीं है	Infrastructure	High
+ডিজিটাল ক্লাসরুমে ইন্টারনেট সংযোগ নেই	Infrastructure	High
+स्कॉलरशिप की राशि छोटी होती है जरूरत से	Finance	Medium
+শিক্ষার্থীর শারীরিক অসুস্থতায় কলেজ কোনো সহায়তা করেনি	Health	High
+Campus ATM machine is out of service frequently	Infrastructure	Medium
+Night warden contact number always unreachable	Hostel	High
+হোস্টেলে শীতকালে কম্বল দেওয়া হয়নি	Hostel	High
+লাইব্রেরিতে কোনো নতুন বই যোগ হয়নি	Library	Medium
+परीक्षा में उत्तर पुस्तिका देर से मिली	Academics	Medium
+हॉस्टल के पास निर्माण का शोर दिन-रात रहता है	Hostel	Medium
+पिछले सेमेस्टर का रिजल्ट अभी तक नहीं आया	Academics	High
+Thesis submission portal on library site is broken	Library	High
+NSS coordinator not available on campus	Extracurricular	Low
+No provision for night security escort within campus	Infrastructure	High
+হোস্টেলের খাবারে পোকামাকড় পাওয়া গেছে	Hostel	High
+Classroom chairs have no writing pad attachment	Infrastructure	Low
+Supplementary exam date not communicated by department	Academics	High
+Hostel room key lost and no replacement given in time	Hostel	High
+Sports fee collected but no sports facility given	Finance	Medium
+Subject teacher is absent more than half the semester	Academics	High
+Campus bus overloaded every morning	Transport	High
+कक्षा में छात्रों के बैठने की कोई पर्याप्त व्यवस्था नहीं	Infrastructure	Medium
+हॉस्टल की दीवारों पर नमी है	Hostel	Medium
+बाहरी परीक्षक ने अनुचित तरीके से नंबर काटे	Academics	High
+হোস্টেল থেকে মেডিকেল লিভের আবেদন করা কঠিন	Health	High
+Lab practical not conducted due to missing equipment	Academics	High
+छात्रावास में कपड़े सुखाने की जगह नहीं है	Hostel	Low
+No online resources for competitive exam preparation	Academics	Medium
+শ্রেণিকক্ষের ফ্যান গরমে কাজ করছে না	Infrastructure	High
+Education loan NOC not being issued by accounts	Finance	High
+New lab equipment not demonstrated to students	Academics	Medium
+Drainage system is blocked near the canteen	Infrastructure	Medium
+কলেজের ফটোকপি শপ শুধু সকালে খোলে	Infrastructure	Medium
+Air conditioning in computer lab overheats system	Infrastructure	Medium
+Cafeteria near library does not serve hot food	Hostel	Low
+Bus driver does not stop at all designated stops	Transport	Medium
+फीस की किस्त विकल्प उपलब्ध नहीं है	Finance	High
+Seminar registration link expires too quickly	Academics	Medium
+No free stationery provided for examinations	Finance	Low
+বছরের শেষে কোনো পুরস্কার প্রদান অনুষ্ঠান হয়নি	Extracurricular	Low
+Campus lighting is very dim in the evening	Infrastructure	High
+Hostel has no panic button for emergency situations	Hostel	High
+ক্যান্টিনে মেয়াদোত্তীর্ণ খাবার বিক্রি হচ্ছে	Health	High
+ক্যাম্পাসে ডাস্টবিন নেই পর্যাপ্ত	Environment	Medium
+No solar panels despite campus green initiative	Infrastructure	Low
+Mess menu has not changed for a semester	Hostel	Low
+कैंपस की सड़कें टूटी हुई हैं और दुर्घटना का खतरा है	Infrastructure	High
+পরীক্ষার ফর্ম ফিলাপের পোর্টাল স্লো	Academics	Medium
+Photocopy of hall ticket not accepted as ID	Administration	Medium
+Subject elective was changed without informing students	Academics	High
+हॉस्टल के कमरे में कीड़े-मकोड़े आ रहे हैं	Hostel	Medium
+कोई करियर मार्गदर्शन सेल नहीं है	Placement	Medium
+Classroom benches are broken and uncomfortable	Infrastructure	Medium
+No debate competition organized in two semesters	Extracurricular	Low
+No formal sports coaching provided for campus teams	Extracurricular	Medium
+ছাত্রাবাসের রান্নাঘর অব্যবহৃত অবস্থায় আছে	Hostel	Low
+No solar-powered streetlights in campus	Environment	Low
+No response from placement office to student queries	Placement	High
+No proper induction training for new lab assistants	Academics	Medium
+হোস্টেলে পর্যাপ্ত আলো নেই পড়াশোনার জন্য	Hostel	Medium
+ক্যাম্পাসে পরিবেশ দূষণ বাড়ছে দিন দিন	Environment	Medium
+No dedicated corner for LGBTQ support on campus	Administration	Medium
+হোস্টেলে বিছানার চাদর নিয়মিত বদলানো হয় না	Hostel	Medium
+No proper announcement for college holiday schedule	Administration	Medium
+छात्रों को रात में कैंपस में नहीं रहने दिया जाता	Administration	Medium
+ল্যাবে যন্ত্রপাতি ভাঙা এবং মেরামত হচ্ছে না	Academics	High
+No exam invigilation schedule available to students	Academics	Low
+পরীক্ষার দিন বাস আসে না	Transport	High
+Internship diary not accepted in digital format	Placement	Low
+Timetable clash between two mandatory subjects	Academics	High
+হোস্টেলে রাতে জেনারেটর চলে না	Hostel	High
+Sanitary napkin dispenser in girls washroom is broken	Health	Medium
+बस में छात्रों के साथ कठोर व्यवहार होता है	Transport	High
+Book return slot is broken at the library entrance	Library	Low
+E-learning platform is slow and crashes during exams	Academics	High
+মার্কশিটে বিষয়ের নাম ভুল লেখা হয়েছে	Academics	High
+No dedicated room for differently-abled students	Infrastructure	High
+Timetable released only 2 days before semester starts	Administration	Medium
+নোটিশ বোর্ডে কোনো আপডেট নেই মাসের পর মাস	Administration	Low
+विभागीय पुस्तकालय में मनमाने नियम हैं	Library	Medium
+No makeup exam for medically absent students	Academics	High
+Research funding disbursed months after approval	Finance	High
+कैंपस में रात को असुरक्षित माहौल है	Infrastructure	High
+Hostel intercom does not connect to warden room	Hostel	Medium
+No option to convert audit course to credit course	Academics	Medium
+No provision to submit hardcopy assignments by courier	Academics	Low
+No student lounge area in academic block	Infrastructure	Low
+No dedicated women's complaint cell	Administration	High
+সেমিনার হলের প্রজেক্টর নষ্ট হয়ে আছে	Infrastructure	Medium
+Library catalogue is not updated online	Library	Medium
+No MOOC course credit transfer policy	Academics	Medium
+No student-accessible grievance status tracker	Administration	High
+No protocol for reporting sexual harassment	Administration	High
+No formal protocol for mental health emergencies	Health	High
+टॉयलेट की सफाई नियमित रूप से नहीं होती	Infrastructure	High
+Placement shortlisting criteria not explained	Placement	High
+ইন্টার্নশিপের জন্য কলেজ থেকে কোনো সহায়তা নেই	Placement	High
+Office staff rude to first-year students	Administration	Medium
+Hostel kitchen fire safety equipment not available	Hostel	High
+Results announced without provisional marksheet	Academics	High
+Overhead water tank has not been cleaned this year	Infrastructure	High
+ক্যাম্পাসে পর্যাপ্ত পার্কিং নেই	Infrastructure	Low
+Merit scholarship criteria changed mid year	Finance	High
+No industrial visits organized this semester	Academics	Low
+No holiday announced for local festivals	Administration	Low
+College identity card is not accepted by banks	Administration	Medium
+Library is closed on Saturdays now	Library	Medium
+Thesis formatting guidelines are not available online	Academics	Medium
+Campus bus schedule not synced with train timings	Transport	Medium
+No freshers week organized for new students	Extracurricular	Low
+গ্রন্থাগারের পুরনো বইগুলো নষ্ট হয়ে গেছে	Library	Medium
+Student mobile number updated but OTP goes to old number	Administration	High
+Student achievements not showcased on college website	Administration	Low
+Bed mattress is thin and causing back pain	Hostel	Medium
+Practical exam rescheduled 3 times without reason	Academics	High
+Hostel warden does not respond to complaints	Hostel	High
+Faculty attendance is not monitored by administration	Academics	High
+Emergency contact number on campus website is wrong	Administration	High
+No health insurance scheme for students	Health	Medium
+পরীক্ষার হলে পানীয় জলের ব্যবস্থা নেই	Infrastructure	High
+ভর্তি পরীক্ষার নম্বর অনলাইনে দেখা যাচ্ছে না	Academics	Medium
+No provision for makeup lab practicals for absentees	Academics	Medium
+No water body management plan near hostel block	Environment	Low
+E-journal access is blocked from hostel wifi	Library	High
+No proper signage in academic block for new students	Administration	Low
+প্রজেক্ট গ্রুপে একজন ছাত্র সব কাজ করছে	Academics	Medium
+Hostel notice board displays expired circulars	Hostel	Low
+Lab deposit not refunded after course completion	Finance	Medium
+Faculty email IDs not shared with students	Administration	Medium
+Language barrier not addressed in multilingual batches	Academics	Medium
+পরীক্ষার হলে পর্যাপ্ত আলো নেই	Infrastructure	High
+হোস্টেলে বিদ্যুৎ বারবার যাওয়া আসা করছে	Hostel	High
+स्नातक उपाधि प्रमाणपत्र में गलती है	Academics	High
+Hostel rule book not given at time of admission	Hostel	Low
+मेस में अचानक बंद हो जाती है शाम को	Hostel	Medium
+Cultural fest budget was reduced without reason	Extracurricular	Low
+No formal protocol when teacher is absent	Academics	Medium
+Conference paper submission portal rejects valid PDFs	Academics	Medium
+Student email system not working for days	Administration	High
+हॉस्टल की चाय-कॉफी बहुत खराब गुणवत्ता की है	Hostel	Low
+Campus app registration requires college mail but mail not issued yet	Administration	High
+ফিরতি বাসের সময়সূচি ঠিক নেই	Transport	Medium
+छात्रावास का मुख्य दरवाजा रात को खुला रहता है	Hostel	High
+ইন্টারনাল মার্কস পোর্টালে আপলোড হয়নি	Academics	High
+ক্যাম্পাসে সাপ দেখা গেছে কিন্তু কোনো ব্যবস্থা নেই	Infrastructure	High
+हॉस्टल में पड़ोसी कमरे का शोर बहुत ज्यादा है	Hostel	Low
+छात्रों की जरूरत के अनुसार पाठ्यक्रम नहीं बनाया जाता	Academics	Medium
+ক্যান্টিনে মান নিয়ন্ত্রণ নেই	Hostel	High
+College bus breaks down frequently on the route	Transport	High
+Smart board in room 301 does not connect to laptop	Infrastructure	Medium
+Practical sessions are conducted without any preparation	Academics	High
+Internal marks are given based on personal bias	Academics	High
+Smart class content not accessible offline	Academics	Medium
+डिजिटल नोटिस बोर्ड काम नहीं करता	Administration	Medium
+No ramps for physically challenged students	Infrastructure	High
+Student union office has no official powers	Administration	Medium
+Continuous assessment marks not updated on portal	Academics	Medium
+Transfer certificate fee is higher than mentioned	Finance	Medium
+No data analytics course available in curriculum	Academics	High
+পরীক্ষার হলে পর্যাপ্ত পেন দেওয়া হয়নি	Academics	Medium
+हॉस्टल में वाशिंग मशीन खराब है	Hostel	Medium
+Exam invigilator was absent and hall was unsupervised	Academics	High
+Placement cell charges service fee not mentioned earlier	Placement	High
+No support for students with learning disabilities	Academics	High
+Bus route does not include city hospital stop	Transport	Medium
+Teacher uses personal WhatsApp group instead of LMS	Academics	Low
+प्रोजेक्ट जमा करने की प्रक्रिया स्पष्ट नहीं है	Academics	Medium
+Exam result correction takes more than 6 months	Academics	High
+No student representation on canteen committee	Hostel	Low
+No written intimation for change in evaluation scheme	Academics	High
+Guest lecturer sessions are not recorded for reference	Academics	Low
+Parents not informed about student medical emergency	Health	High
+Retotalling request not processed within time limit	Academics	High
+বার্ষিক মিলাদ বা অনুষ্ঠানের জন্য অনুমতি পাওয়া কঠিন	Administration	Low
+हॉस्टल में इंटरनेट शाम के बाद बंद हो जाता है	Infrastructure	High
+लाइब्रेरी में नई किताबें नहीं आई इस साल	Library	Medium
+Water logging in hostel ground floor after rain	Hostel	Medium
+Online portal shows wrong department for student	Administration	Medium
+Exam results have errors in student registration numbers	Academics	High
+No collaboration with industry for live projects	Academics	Medium
+प्रवेश पोर्टल बार-बार बंद होता है	Administration	High
+হোস্টেলের শৌচাগার মেরামত করা হয়নি মাসের পর মাস	Hostel	High
+Aptitude training not conducted for final year	Placement	High
+Campus internet speed is insufficient for research work	Infrastructure	High
+No access to premium job portals for students	Placement	Medium
+No LinkedIn workshop conducted for students	Placement	Low
+কম্পিউটার ল্যাবের সফটওয়্যার লাইসেন্স শেষ হয়ে গেছে	Academics	High
+क्लास के बाहर शिक्षक से मिलने का समय निश्चित नहीं	Academics	Medium
+स्नातक समारोह की तारीख अचानक बदल दी गई	Administration	Medium
+Refund for cancelled event not processed yet	Finance	Medium
+Bus leaves 10 minutes before scheduled time	Transport	High
+Hostel wifi is only available in common area	Hostel	Medium
+Dissertation format guidelines change every year	Academics	Medium
+Power backup in exam hall fails during power cut	Infrastructure	High
+Placement team does not share rejected company names	Placement	Medium
+College app does not send notifications reliably	Administration	Medium
+शौचालय में नल से पानी नहीं आता	Infrastructure	High
+कक्षा में माइक्रोफोन हमेशा खराब रहता है	Infrastructure	Medium
+প্লেসমেন্টের জন্য শুধু নির্দিষ্ট শাখাকে সুবিধা দেওয়া হচ্ছে	Placement	High
+No student involvement in college development plans	Administration	Low
+শিক্ষকের ব্যবহার ছাত্রছাত্রীদের সাথে ভালো না	Academics	High
+Character certificate not issued before deadline	Administration	High
+हॉस्टल में कोई रीडिंग लैम्प नहीं है	Hostel	Low
+Campus waste not segregated at source	Environment	Medium
+No proper farewell event organized for final year	Extracurricular	Low
+Hostel room is too small for two students	Hostel	Low
+एग्जाम ड्यूटी के दौरान शिक्षक मोबाइल का उपयोग करते हैं	Academics	High
+পোর্টালে একাধিকবার ফি কাটা গেছে	Finance	High
+No refresher courses for weak students before exams	Academics	Medium
+Theory exam paper was out of syllabus	Academics	High
+Students not given reading list before semester begins	Academics	Low
+Practical classes held in wrong lab without equipment	Academics	High
+Lab practical submission not acknowledged by faculty	Academics	Medium
+কোনো অধ্যাপক সময়মতো নম্বর জমা দেন না	Academics	High
+बस समय सारिणी ठीक नहीं है	Transport	Medium
+No certificate for completing language lab sessions	Academics	Low
+Internet cable wiring is exposed and dangerous	Infrastructure	High
+No feedback given on submitted assignments	Academics	Medium
+প্লেসমেন্ট সেল থেকে কোনো সাড়া পাচ্ছি না	Placement	High
+Placement test result not declared after 2 weeks	Placement	High
+No provision for storing valuables in hostel	Hostel	Medium
+Thesis plagiarism checker access not provided	Academics	Medium
+Late submission of report not acceptable even with reason	Academics	Medium
+Chemistry lab fumes are affecting students' health	Health	High
+No dedicated room for student club activities	Extracurricular	Low
+एग्जाम फॉर्म ऑनलाइन नहीं भरा जा सकता	Academics	High
+ক্লাসে পর্যাপ্ত আলো নেই পড়াশোনার জন্য	Infrastructure	Medium
+Campus map is outdated with wrong building names	Administration	Low
+विभाग की वेबसाइट पर पुरानी जानकारी है	Administration	Low
+Bus route does not cover the new student accommodation	Transport	Medium
+Library remains closed during examination period	Library	High
+हॉस्टल के शौचालय में ताला नहीं है	Hostel	High
+MOOC credits not reflected in transcript	Academics	High
+शिक्षकों का छात्र मूल्यांकन नहीं होता	Academics	Medium
+Hostel notice board is empty for weeks	Hostel	Low
+प्रयोगशाला में सुरक्षा उपकरण उपलब्ध नहीं हैं	Infrastructure	High
+Research scholars have no common workspace	Academics	Medium
+Road lights near women's hostel are all broken	Infrastructure	High
+No Wi-Fi in outdoor spaces of campus	Infrastructure	Medium
+Library book renewal online system is broken	Library	Medium
+Faculty contact numbers not shared with students	Administration	Medium
+Academic department phone goes unanswered	Administration	Medium
+परीक्षा केंद्र पर पर्याप्त बेंच नहीं थे	Infrastructure	High
+Hostel electricity cut-off time is too early at 11 PM	Hostel	High
+शिक्षक छात्रों के प्रश्नों का उत्तर नहीं देते	Academics	High
+स्वास्थ्य बीमा की सुविधा छात्रों को नहीं मिलती	Health	Medium
+Diesel generator used excessively on campus	Environment	Low
+Lab coat not provided to students despite charging	Academics	High
+Hostel roof tank is not covered properly	Hostel	Medium
+छात्रों की उपस्थिति पोर्टल पर गलत दिखाई देती है	Academics	High
+No covered walkway between departments	Infrastructure	Low
+শ্রেণিকক্ষে বসার সিট সংখ্যা কম	Infrastructure	Medium
+बस का टाइमटेबल वेबसाइट पर नहीं है	Transport	Low
+College bus driver uses phone while driving	Transport	High
+No dustbins installed near classroom building	Environment	Low
+पुस्तकालय में बैठने की पर्याप्त जगह नहीं है	Library	Medium
+Marks moderation process is not transparent	Academics	Medium
+Departmental library is locked and inaccessible	Library	High
+কলেজ বাসের রুট পরিবর্তন জানানো হয়নি	Transport	High
+Revaluation results are taking more than 3 months	Academics	High
+Hostel caution deposit not returned at graduation	Finance	High
+Classroom microphone system has echo issues	Infrastructure	Low
+পরীক্ষার রেজাল্টে কারো নাম নেই ভুলে	Academics	High
+Hostel warden absent during medical emergency	Hostel	High
+Semester planner not shared with students at start	Academics	Medium
+প্লেসমেন্ট ড্রাইভের তথ্য সময়মতো দেওয়া হচ্ছে না	Placement	High
+विभाग ने परीक्षाफल आपत्ति दिवस कम रखा है	Academics	High
+No Wi-Fi access in hostel common room	Infrastructure	High
+नए छात्रों के लिए ओरिएंटेशन कार्यक्रम नहीं हुआ	Administration	Medium
+No inter-disciplinary courses offered	Academics	Medium
+No backup faculty for sick or absent professor	Academics	High
+Faculty does not accept digitally signed documents	Academics	Low
+Hostel common room is always locked	Hostel	Medium
+बस में सीट से ज्यादा यात्री भरे जाते हैं	Transport	Medium
+Bus number not displayed on college bus	Transport	Low
+Electricity sockets in classroom are not working	Infrastructure	Medium
+Mental health counselor not available on campus	Health	High
+অধ্যাপক সময়মতো ক্লাস নেন না	Academics	High
+Professor skips chapters without informing students	Academics	High
+पार्किंग में रात को सुरक्षा नहीं है	Infrastructure	High
+Subject change request ignored by department	Academics	Medium
+College email does not work outside campus network	Administration	High
+No mentoring system for first-year students	Academics	Medium
+Holiday homework assigned without teacher guidance	Academics	Low
+Student forum discussions not moderated by faculty	Academics	Low
+Internship NOC requires multiple approvals	Placement	Medium
+No remedial classes for weak students	Academics	Medium
+Lab workbooks not issued at semester start	Academics	Medium
+No student representation in academic council	Administration	High
+পরীক্ষার রুটিন দেরিতে প্রকাশিত হয়েছে	Academics	High
+छात्र संघ चुनाव समय पर नहीं हुए	Extracurricular	Medium
+No provision to appeal hostel room allocation	Hostel	Medium
+No online grievance tracking system	Administration	High
+कैंपस में ATM की सुविधा बंद है	Infrastructure	Medium
+শিক্ষার্থীদের ফিডব্যাক পোর্টাল কাজ করছে না	Administration	Medium
+Conference room not available for student presentations	Infrastructure	Medium
+No student support for GATE exam preparation	Academics	Medium
+Music room is locked and not accessible to students	Extracurricular	Medium
+No clean changing room near sports ground	Extracurricular	Medium
+परीक्षा के दिन पावर बैकअप फेल हो गया	Infrastructure	High
+Electricity bill deducted from fee without notice	Finance	Medium
+বৃত্তির টাকা সঠিক সময়ে আসছে না	Finance	High
+मार्कशीट में सेमेस्टर गलत लिखा हुआ है	Academics	High
+परीक्षा पंजीकरण की अंतिम तारीख बहुत कम रखी गई	Academics	High
+सेमेस्टर के अंत में प्रोफेसर सिलेबस पूरा नहीं करते	Academics	High
+No provision to appeal an academic suspension	Administration	High
+Mess advance payment not refunded after hostel exit	Finance	High
+Campus fire alarm is not tested regularly	Infrastructure	High
+No notification system for scholarship result	Finance	Medium
+Cafeteria food causes stomach ailments frequently	Health	High
+No group study room in library	Library	Medium
+হোস্টেলের রুম বরাদ্দ প্রক্রিয়া স্বচ্ছ নয়	Hostel	Medium
+AC bus allotted to staff only, not students	Transport	Medium
+প্রশাসনিক কার্যালয়ে দীর্ঘ লাইন প্রতিদিন	Administration	Medium
+Department exam schedule conflicts with college exam	Academics	High
+ক্যাম্পাসে রাতের আলো পর্যাপ্ত নয়	Infrastructure	High
+हॉस्टल में जेनरेटर रात को बंद हो जाता है	Hostel	High
+प्रयोगशाला में रसायन पुराने और एक्सपायर हो गए हैं	Academics	High
+No communication from HOD on student queries	Administration	High
+Teacher plays videos in class instead of teaching	Academics	Medium
+প্রাত্যহিক নামাজের জন্য কোনো ঘর নেই	Infrastructure	Low
+प्रयोगशाला में कोई प्रशिक्षित कर्मचारी नहीं है	Academics	High
+Exam paper leaked and re-exam not announced	Academics	High
+College feedback form has biased questions only	Administration	Medium
+ক্লাসরুমে মাইক্রোফোন কাজ করে না	Infrastructure	Medium
+प्रयोगशाला में इंटरनेट की सुविधा नहीं है	Infrastructure	High
+Electricity bill charged separately from hostel fee	Finance	Medium
+বাস রুট পরিবর্তন করা হয়েছে জানানো ছাড়াই	Transport	High
+No gym access for female students	Extracurricular	Medium
+शिक्षक परीक्षा में अनुचित प्रश्न पूछते हैं	Academics	Medium
+Admission verification documents not returned after process	Administration	Medium
+No formal complaint mechanism against faculty	Administration	High
+পরীক্ষার হলে পর্যাপ্ত টেবিল নেই	Infrastructure	Medium
+बस चालक बहुत तेज गाड़ी चलाता है	Transport	High
+No periodic review of faculty teaching quality	Academics	High
+क्लास में स्मार्ट बोर्ड इंटरनेट से कनेक्ट नहीं होता	Infrastructure	Medium
+Waste bins are overflowing near canteen area	Environment	Medium
+পরীক্ষার উত্তরপত্র হারানোর অভিযোগ উঠেছে	Academics	High
+परिणाम घोषणा के बाद पुनर्मूल्यांकन का विकल्प नहीं	Academics	High
+No free sanitary pads available in girls common room	Health	Medium
+Cafeteria opens late on exam days	Hostel	Medium
+ছাত্রাবাসের কার্যকর অভিযোগ বোর্ড নেই	Hostel	Low
+नोटिस बोर्ड पर जानकारी हिंदी में नहीं होती	Administration	Low
+ऑनलाइन परीक्षा देते समय पोर्टल क्रैश हो गया	Academics	High
+बस का रूट बदल दिया गया लेकिन सूचना नहीं दी	Transport	High
+হোস্টেলের আসবাবপত্র অনেক পুরনো এবং ভাঙা	Hostel	Medium
+शिक्षण सहायक सामग्री पुरानी और अप्रासंगिक है	Academics	Medium
+কলেজের ওয়েবসাইট মোবাইলে ঠিকমতো খোলে না	Administration	Low
+No grievance redressal mechanism for students	Administration	High
+পরীক্ষার পরে স্ক্রিপ্ট দেখার অনুমতি নেই	Academics	High
+Canteen is overcrowded during lunch break	Hostel	Low
+Security guard at gate misbehaves with girl students	Administration	High
+Exam results released on public holiday causing confusion	Academics	Medium
+শিক্ষার্থীদের প্রজেক্ট আইডিয়া চুরি হয়ে গেছে	Academics	High
+पुराने छात्रों का नेटवर्क सक्रिय नहीं है	Placement	Medium
+No transport for evening classes after 8 PM	Transport	High
+Practical exam invigilator arrives 30 minutes late	Academics	Medium
+No social media presence for placement updates	Placement	Low
+Blockchain technology not included in syllabus	Academics	Low
+Canteen does not provide nutritional information	Health	Low
+Canteen hygiene has not been inspected recently	Hostel	High
+No welcome kit provided to new hostel students	Hostel	Low
+পরীক্ষার ফর্ম পূরণের পোর্টাল মাঝে মাঝে ডাউন থাকে	Academics	High
+Washroom taps in girls block are leaking	Infrastructure	Medium
+मेस में पर्याप्त बर्तन नहीं हैं	Hostel	Low
+End-term exam answer sheets not returned to students	Academics	Medium
+মার্কশিটে জন্মসাল ভুল লেখা হয়েছে	Academics	High
+শ্রেণিকক্ষের দরজা সবসময় আটকে থাকে	Infrastructure	Low
+Hostel cleaning staff is insufficient for the floor	Hostel	Medium
+पुस्तकालय की किताबें बहुत पुरानी हैं	Library	Medium
+No transport reimbursement for off-campus internship	Finance	Medium
+कक्षा में स्मार्ट बोर्ड का उपयोग नहीं होता	Infrastructure	Medium
+Machine learning lab has no GPU systems	Academics	High
+कक्षा में हमेशा बहुत शोर होता है	Infrastructure	Low
+मेडिकल सहायता के लिए कोई डॉक्टर उपलब्ध नहीं है	Health	High
+हॉस्टल में पर्याप्त रोशनी नहीं है कमरों में	Hostel	Medium
+ল্যাবে পানীয় জল নেই	Infrastructure	High
+No annual health insurance provided for research scholars	Health	High
+Assignment submission link expires before deadline	Academics	High
+Students not allowed to use faculty parking in emergency	Infrastructure	Low
+गेट से छात्रावास का रास्ता अंधेरे में असुरक्षित है	Infrastructure	High
+Mess supervisor does not address hygiene complaints	Hostel	High
+ছাত্রাবাসের দরজার তালা ভাঙা	Hostel	High
+प्लेसमेंट के लिए कंपनियाँ कम आ रही हैं	Placement	High
+গ্রন্থাগারে থিসিস পড়ার আলাদা রুম নেই	Library	Medium
+No arrangement for isolated seating in exam for disabled	Academics	High
+CGPA required for back paper not communicated	Academics	High
+Bus stop near engineering block has no shelter	Transport	Low
+क्लास में माइक्रोफोन काम नहीं करता	Infrastructure	Medium
+ছাত্রাবাসে গ্যাস লিকেজের সমস্যা আছে	Hostel	High
+NSS camp not organized despite students' readiness	Extracurricular	Low
+NSS volunteers not issued certificates on time	Extracurricular	Medium
+Hostel common room TV is broken	Hostel	Low
+Transfer certificate not issued on time	Administration	High
+No online booking for campus facilities	Administration	Low
+Night security guard sleeps on duty	Infrastructure	High
+Photocopy shop is closed on exam days	Infrastructure	High
+নতুন ব্যাচের জন্য ওরিয়েন্টেশন সেশন হয়নি	Administration	Medium
+পানিতে দুর্গন্ধ পাচ্ছি হোস্টেলে	Hostel	High
+Student complaint email bounces back	Administration	High
+Student recreation area is always locked	Extracurricular	Medium
+Student union office is always locked	Administration	Medium
+Class timetable is not available on department website	Academics	High
+Guest lecture not announced in advance	Academics	Low
+পরীক্ষার আগে মডেল প্রশ্ন দেওয়া হয় না	Academics	Medium
+No biometric attendance for hostel	Hostel	Low
+Anti-plagiarism software access revoked mid-semester	Academics	High
+Scholarship renewal documentation process unclear	Finance	High
+रिसर्च पेपर जमा करने का पोर्टल काम नहीं कर रहा	Academics	High
+No innovation challenge or hackathon this year	Academics	Low
+No installment option available for tuition fees	Finance	High
+हॉस्टल में इंटरनेट की गति बहुत धीमी है	Infrastructure	High
+স্বাস্থ্যকেন্দ্রে কোনো চিকিৎসক নেই সপ্তাহান্তে	Health	High
+Campus app shows wrong exam schedule dates	Administration	High
+No reading room available in hostel block	Hostel	Medium
+Practical exam cancelled without alternate arrangement	Academics	High
+পুরস্কার বিতরণ অনুষ্ঠানে যোগ দিতে পারিনি কারণ জানানো হয়নি	Extracurricular	Medium
+ग्रंथालय में शांति का माहौल नहीं है	Library	Medium
+No travel allowance for students attending conferences	Finance	Medium
+Lab practical marks not shown on mid-term result	Academics	High
+इंटर्नशिप के लिए NOC समय पर नहीं मिल रहा	Placement	High
+No language support for non-Hindi non-English students	Academics	High
+Student health checkup camp not organized this year	Health	Low
+College magazine has not been published in 2 years	Extracurricular	Low
+গ্রন্থাগারে ই-জার্নালের সুবিধা বন্ধ	Library	High
+No support for students applying to foreign universities	Placement	Medium
+কলেজ অ্যাপ বারবার ক্র্যাশ করছে	Administration	High
+मेस में खाना ठंडा परोसा जाता है	Hostel	Medium
+No Wi-Fi network in canteen area	Infrastructure	Medium
+विभाग द्वारा गेस्ट लेक्चर की जानकारी देर से दी जाती है	Academics	Low
+No provision for online attendance marking by faculty	Academics	Medium
+Grading rubric for assignments not shared	Academics	Medium
+Classroom projector screen is torn	Infrastructure	Low
+Lab practical sessions overlap with theory lectures	Academics	Medium
+Hostel fee structure has hidden charges	Finance	High
+No proper road crossing facility near campus gate	Infrastructure	High
+Syllabus document uploaded on portal has errors	Academics	Medium
+No sports scholarship for state-level achievers	Finance	High
+Hostel electric geyser has been broken for 2 months	Hostel	Medium
+Hostel allotment letter not provided to new students	Administration	Medium
+Fee payment portal shows session expired repeatedly	Finance	High
+No provision for students to see question paper marking scheme	Academics	Medium
+Lab viva conducted without prior intimation	Academics	Medium
+Computer lab is available only during working hours	Academics	Medium
+No provision for cold water in hostel rooms during summer	Hostel	Medium
+গণিত ল্যাবের সফটওয়্যার অনেক পুরনো	Academics	Medium
+No transport service during semester break	Transport	Medium
+Student portal not mobile responsive on older phones	Administration	Medium
+होस्टल में चोरी की घटना हुई लेकिन कोई कार्रवाई नहीं	Hostel	High
+Examination branch does not accept online applications	Administration	Medium
+No hands-on training in engineering workshops	Academics	Medium
+No publication support for research students	Academics	Medium
+Mess biometric machine shows error frequently	Hostel	Medium
+No newspaper subscription available in library	Library	Low
+कैंपस के पास ट्रैफिक जाम की समस्या है	Transport	Medium
+Guest visiting hours are very limited	Hostel	Low
+Online grievance portal is not functional	Administration	High
+No scholarship for students with backlogs	Finance	High
+पार्किंग की कोई सुव्यवस्था नहीं है	Infrastructure	Low
+शिक्षक समय पर कक्षा में नहीं आते	Academics	High
+ছাত্রাবাসে ঘুমানোর পর কামড় দেয় এমন পোকা আছে	Hostel	High
+College calendar not distributed to students	Administration	Low
+बिना कारण बताए कक्षा रद्द कर दी गई	Academics	Medium
+Course enrollment deadline is too short	Academics	Medium
+Broken steps near library entrance cause danger	Infrastructure	High
+कक्षा में पंखा बहुत शोर करता है	Infrastructure	Low
+No central air conditioning in exam hall	Infrastructure	Medium
+Online assignment portal sends no confirmation email	Academics	Medium
+परीक्षा हॉल में बिजली चली गई और परीक्षा प्रभावित हुई	Infrastructure	High
+Student ID cards not renewed for third-year batch	Administration	Medium
+Campus road has potholes causing accidents	Infrastructure	High
+Transfer of credit from online courses not recognized	Academics	Medium
+ছাত্রাবাসে ফার্স্ট এইড বক্স নেই	Health	High
+No system to report anonymous safety incidents	Administration	High
+कैंटीन के पास कचरे का ढेर लगा है	Environment	Medium
+Photography club has no camera equipment provided	Extracurricular	Low
+College newsletter has not been published recently	Administration	Low
+No orientation for industry-based certification courses	Academics	Low
+No dedicated study space outside of library hours	Library	Medium
+Bus schedule is different from the one on notice board	Transport	Medium
+Online attendance portal shows wrong subject	Academics	High
+শিক্ষার্থীদের ইমেইলের কোনো জবাব আসে না	Administration	High
+No option to change exam centre location	Academics	Medium
+Library does not have audio-visual resources	Library	Low
+No orientation for students returning from medical leave	Administration	Medium
+शिक्षक ग्रुप प्रोजेक्ट में व्यक्तिगत योगदान नहीं देखते	Academics	Medium
+मेस में खाना बनाने वाले अस्वच्छ हैं	Hostel	High
+No composting facility for canteen food waste	Environment	Low
+कॉलेज की वेबसाइट पर गलत जानकारी है	Administration	Medium
+No awareness program for cyber safety on campus	Administration	Medium
+Soft skills workshop was cancelled last minute	Academics	Medium
+ক্লাসে কোনো শিক্ষার্থী প্রশ্ন করতে পারে না	Academics	Medium
+No feedback given after campus placement interviews	Placement	Medium
+परीक्षा पर्यवेक्षक का व्यवहार अनुचित था	Academics	High
+No feedback mechanism for hostel food quality	Hostel	Low
+No rainwater harvesting system on campus	Environment	Low
+Tutorial batch size is too large to be effective	Academics	Medium
+No notification sent for fee due date	Finance	High
+Department social media account is inactive	Administration	Low
+মেধাবৃত্তির আবেদন ফর্ম দেওয়া হয়নি সময়মতো	Finance	High
+Sports ground is not maintained properly	Extracurricular	Low
+Photocopy charges near library are excessive	Finance	Low
+College Wi-Fi blocks legitimate educational websites	Infrastructure	High
+रात 10 बजे के बाद हॉस्टल की बिजली बंद कर दी जाती है	Hostel	Medium
+ক্যাম্পাসে অ্যাম্বুলেন্স প্রয়োজন মতো পাওয়া যায় না	Health	High
+হোস্টেল থেকে বের হতে প্রতিদিন পারমিশন লাগছে	Hostel	Medium
+मेस में स्वास्थ्यकर खाने का विकल्प नहीं है	Health	Medium
+Books ordered from library never arrived	Library	High
+Attendance percentage is wrongly calculated	Academics	High
+Campus construction disturbs ongoing classes	Infrastructure	Medium
+Migration certificate process is very lengthy	Administration	Medium
+परिसर में कागज रिसाइक्लिंग की कोई सुविधा नहीं	Environment	Low
+Student helpdesk email not replied to in 2 weeks	Administration	High
+No provision for charging mobility scooters on campus	Infrastructure	Medium
+Campus app does not work on low-end Android phones	Administration	Medium
+No peer tutoring initiative started by college	Academics	Low
+Study material not available in regional language	Academics	Medium
+পরীক্ষার নম্বর আপিল করার কোনো পদ্ধতি নেই	Academics	High
+No formal complaint system against hostel staff	Hostel	High
+Canteen food contains allergens without labelling	Health	High
+Placement blacklist policy is not clearly communicated	Placement	Medium
+Exam invigilator refused to give extra answer sheet	Academics	High
+No proper training for hostel wardens on mental health	Health	Medium
+Hostel room allocation reversed without explanation	Hostel	Medium
+Research methodology course is not practical	Academics	Medium
+ক্লাসরুমে এসি চালানো হয় না	Infrastructure	Medium
+Classroom ceiling fan is making loud noise	Infrastructure	Low
+ट्रांसफर सर्टिफिकेट के लिए ज्यादा दस्तावेज मांगे जाते हैं	Administration	Medium
+Cockroaches found in hostel dining area	Hostel	High
+Campus road lights are broken since months	Infrastructure	High
+PhD supervisor not assigned after six months	Academics	High
+No scholarship for students pursuing double degrees	Finance	Medium
+Room allocated is far from bathroom block	Hostel	Low
+No written record of verbal complaints given	Administration	Medium
+অডিটোরিয়াম বুকিং প্রক্রিয়া জটিল	Administration	Medium
+No collaborative project between departments	Academics	Low
+নতুন শিক্ষার্থীদের মেন্টর দেওয়া হয়নি	Academics	Medium
+Student ID card not issued after one month	Administration	Medium
+Student feedback never acted upon by college	Administration	High
+ऑनलाइन परीक्षा के दौरान सर्वर क्रैश हो गया	Academics	High
+Students not informed when classes move online	Academics	High
+No proper waste segregation in hostel floors	Environment	Medium
+No transport helpline number for emergency	Transport	High
+शौचालय में सफाई कर्मी नियमित नहीं आते	Infrastructure	High
+বাসের মধ্যে নিরাপত্তা নেই মহিলা শিক্ষার্থীদের	Transport	High
+अटेंडेंस गलत दर्ज है और शिक्षक सुधारने में रुचि नहीं लेते	Academics	High
+Hostel mess food quality has declined significantly	Hostel	Medium
+Gym equipment is outdated and some machines broken	Extracurricular	Medium
+No accessible parking for faculty with disabilities	Infrastructure	Medium
+বাসের টিকিট কাটার মেশিন কাজ করছে না	Transport	Medium
+प्लेसमेंट में कुछ शाखाओं को प्राथमिकता दी जाती है	Placement	High
+Canteen closed without prior intimation to students	Hostel	Medium
+Ambulance service on campus is not operational	Health	High
+Hostel gate is not locked at night creating safety risk	Hostel	High
+कैंपस में पर्याप्त पेड़-पौधे नहीं हैं	Environment	Low
+No provision to verify marks before results declared	Academics	High
+Lab attendance register not maintained properly	Academics	Medium
+College has no disaster management plan displayed	Administration	High
+No proper desk for writing in reading room	Library	Low
+Lab equipment booking system is manual and inefficient	Infrastructure	Medium
+No proper budget allocation for research scholars	Finance	High
+No student representation in hostel committee	Hostel	Low
+Bus conductor does not give receipts for fees	Transport	Low
+ছাত্রাবাসে নতুন ছাত্রদের স্বাগত অনুষ্ঠান নেই	Hostel	Low
+Departmental seminar room double-booked regularly	Administration	Medium
+No designated prayer room on campus	Infrastructure	Low
+No provision for online mode for supplementary exam	Academics	Medium
+बिना सूचना के परीक्षा तारीख बदल दी गई	Academics	High
+Mess complaint register is never read by authority	Hostel	Low
+Lecture slides not uploaded before class for preparation	Academics	Low
+Campus dispensary runs out of medicines frequently	Health	High
+College has no green campus policy	Environment	Low
+Hostel gate pass system takes more than 1 hour	Hostel	Medium
+Exam hall ventilation is insufficient in summer	Infrastructure	High
+CGPA not updated after supplementary exam	Academics	High
+Campus garden not maintained during academic year	Environment	Low
+Oral exam scheduling clashes with written exam	Academics	High
+Drama society has no practice room allocated	Extracurricular	Low
+Hostel warden changes rules without prior notice	Hostel	Medium
+No proper disposal mechanism for lab chemicals	Environment	High
+Laundry room machines are out of order	Hostel	Medium
+परिसर में सुरक्षा की कमी है, अनजान लोग घुस आते हैं	Infrastructure	High
+Exam postponed but rescheduled date not announced	Academics	High
+Hostel washroom tiles are broken and slippery	Hostel	High
+Research paper submission portal is down	Academics	High
+হোস্টেলের গেটে সিসিটিভি নেই	Hostel	High
+No student mentoring program for final year students	Academics	Medium
+Online course videos are outdated and irrelevant	Academics	Medium
+Teacher gives notes in regional language students can't read	Academics	Medium
+ফার্মেসি কোর্সে প্র্যাক্টিক্যাল কম আছে	Academics	Medium
+সেমিস্টার শেষে কোনো বিদায় অনুষ্ঠান হয়নি	Extracurricular	Low
+End-semester exam date clashes with religious holiday	Academics	Medium
+Exam question paper font too small to read	Academics	Medium
+Lab assistants not trained to operate new equipment	Academics	Medium
+CCTV cameras in hostel corridors are not working	Infrastructure	High
+পরীক্ষার আগে সিলেবাস শেষ হয়নি	Academics	High
+इंटर्नशिप रिपोर्ट जमा करने की कोई ऑनलाइन सुविधा नहीं	Placement	Medium
+पुस्तकालय में जर्नल नहीं मिलते हैं	Library	High
+ডিজিটাল লাইব্রেরিতে প্রবেশ করা যাচ্ছে না	Library	High
+No startup internship opportunities shared	Placement	Medium
+Lab session cancelled repeatedly this semester	Academics	High
+No silent zone maintained inside the library	Library	Medium
+শ্রেণিকক্ষের দেয়াল ভেজা এবং ছত্রাক ধরেছে	Infrastructure	High
+Semester registration portal closes too early	Administration	High
+Student medical file lost by health center	Health	High
+প্রশিক্ষণ বিভাগে যোগাযোগের জন্য কেউ নেই	Placement	High
+ক্লাসরুমে শব্দ শুনতে সমস্যা হয়	Infrastructure	Medium
+Scholarship amount was credited to wrong account	Finance	High
+Digital notice board displays wrong information	Administration	Medium
+Bus route map not available at bus stop	Transport	Low
+Annual examination results not submitted to university	Academics	High
+परिसर में पर्याप्त शौचालय नहीं हैं	Infrastructure	High
+एडमिट कार्ड में फोटो गलत है	Academics	High
+ছাত্রাবাসে নেটওয়ার্ক সিগন্যাল অনেক দুর্বল	Infrastructure	High
+Water cooler near exam hall is not working	Infrastructure	High
+Required reference books are always checked out	Library	Medium
+পুরস্কার প্রতিযোগিতার তারিখ পরিবর্তিত হয়েছে	Extracurricular	Low
+শিক্ষক পাঠদানে পাওয়ারপয়েন্ট নির্ভর	Academics	Medium
+ছাত্রাবাসে গরম পানির ব্যবস্থা নেই	Hostel	High
+Exit pass process from hostel is too complicated	Hostel	Low
+Re-exam result delayed by university end	Academics	High
+Assignment portal does not accept PDF format	Academics	Medium
+Course material is not available on the LMS	Academics	Medium
+Campus map not available for new students	Administration	Low
+ছাত্রাবাসের সিলিং ভেঙে পড়েছে	Hostel	High
+ছাত্রাবাসে মশার উপদ্রব খুব বেশি	Hostel	Medium
+Night warden does not make rounds in hostel	Hostel	High
+Student council elections delayed by two months	Extracurricular	Medium
+শিক্ষার্থীরা পরীক্ষার ফলাফলে আপিল করতে পারছে না	Academics	High
+Medical certificate process is very bureaucratic	Health	Medium
+Laboratory rules and safety notice not displayed	Academics	High
+Admit card correction request not addressed	Administration	High
+No indoor sports facility available on campus	Extracurricular	Medium
+सांस्कृतिक कार्यक्रम के लिए हॉल उपलब्ध नहीं कराया गया	Extracurricular	Medium
+ক্যান্টিনে পানীয় জলের ব্যবস্থা নেই	Infrastructure	High
+Internship completion certificate not accepted on portal	Placement	High
+No skill assessment test conducted in first year	Academics	Medium
+Campus shuttle service discontinued without notice	Transport	High
+Mess server behaves rudely with students	Hostel	Medium
+Entrepreneurship cell has no active projects	Placement	Medium
+Student helpdesk is not staffed properly	Administration	Medium
+Mid-semester exam was rescheduled without notice	Academics	High
+No formal student ID verification at exam hall entry	Academics	Medium
+Principal's office does not respond to written requests	Administration	High
+গবেষণার জন্য আলাদা ল্যাব নেই	Academics	High
+पूरे सेमेस्टर में कोई इंडस्ट्री विजिट नहीं हुई	Academics	Low
+Practical marks not included in final result	Academics	High
+Hostel room windows do not close properly	Hostel	Low
+গ্রন্থাগারে বই ইস্যুর সীমা অনেক কম	Library	Medium
+Noise from construction disturbs hostel students	Hostel	Medium
+No fee waiver for economically weaker students	Finance	High
+शारीरिक रूप से दिव्यांग छात्रों के लिए रैंप नहीं है	Infrastructure	High
+Borrowing limit of 2 books is too low for research	Library	Medium
+নতুন ছাত্রছাত্রীদের জন্য ওরিয়েন্টেশন হয়নি	Administration	Medium
+Digital payment system in mess fails regularly	Finance	Medium
+Hostel intercom system is not working	Hostel	Low
+Hot water supply in hostel stops after 7 AM	Hostel	Medium
+Scholarship verification documents stuck in office	Administration	High
+Medical leave not granted without physical visit to doctor	Health	Medium
+First aid box in lab is empty	Health	High
+গ্রন্থাগার কার্ড নবায়নের প্রক্রিয়া জটিল	Library	Low
+Mess biometric attendance records incorrect	Hostel	Medium
+Exam supplementary result declared after re-admission deadline	Academics	High
+कैंटीन में स्वच्छता का पूर्णतः अभाव है	Hostel	High
+স্নাতক সনদ পেতে অনেক সময় লাগছে	Administration	High
+Backup generator does not start during power cuts	Infrastructure	High
+छात्र को बिना कारण बताए परीक्षा में बैठने से रोका गया	Academics	High
+College notice board is not updated regularly	Administration	Low
+Bus pass not valid for hospital visits	Transport	Medium
+ডিপার্টমেন্ট অফিসে সঠিক তথ্য পাওয়া যাচ্ছে না	Administration	Medium
+No proper response from examination department	Administration	Medium
+Bonafide certificate takes more than 10 days	Administration	High
+Online assignment submission shows error after upload	Academics	High
+No escalation matrix available for unresolved complaints	Administration	High
+No post-exam stress management session organized	Health	Low
+বার্ষিক ক্রীড়া প্রতিযোগিতা আয়োজন হয়নি	Extracurricular	Low
+No peer counseling program available	Health	Medium
+Library scanner is not working for weeks	Library	Medium
+College app login fails on iOS devices	Administration	Medium
+उच्च शिक्षा के लिए छात्रों को मार्गदर्शन नहीं मिलता	Placement	Medium
+পরীক্ষার সময় ঘর বরাদ্দ জানানো হয়নি	Academics	Medium
+Late fee is charged even when portal was down	Finance	High
+No system for booking faculty office hours online	Academics	Low
+Library membership card blocked without reason	Library	High
+College has no officially appointed ombudsman	Administration	High
+No option to submit handwritten assignments digitally	Academics	Low
+No formal tie-up with placement agencies	Placement	Medium
+कैंपस में मच्छर बहुत हैं, कोई फॉगिंग नहीं होती	Infrastructure	High
+Attendance portal shows absents on public holidays	Academics	High
+No gender-neutral washroom on campus	Infrastructure	High
+Campus pond is a breeding ground for mosquitoes	Environment	High
+No mock interview sessions before placement season	Placement	High
+No formal letter issued for industrial visits	Academics	Medium
+विभागीय कार्यालय में कोई जिम्मेदार नहीं मिलता	Administration	Medium
+शारीरिक रूप से अक्षम छात्रों के लिए कोई सुविधा नहीं	Infrastructure	High
+No proper system for tracking internal marks	Academics	High
+No clean drinking water in computer lab	Infrastructure	High
+No documentation support for education loan	Finance	High
+No air cooler provided in hostel during summer	Hostel	Medium
+পরীক্ষার রুম নম্বর বোর্ডে দেওয়া হয়নি	Academics	Medium
+হোস্টেলে পানির চাপ খুব কম	Hostel	High
+No provision for transferring credits from another university	Academics	High
+গবেষণা প্রকল্পের জন্য অনুদান পাওয়া যাচ্ছে না	Academics	High
+Insufficient seating in library during exam period	Library	Medium
+Mess menu not displayed outside the dining hall	Hostel	Low
+प्रयोगशाला के दौरान दुर्घटना हुई पर कोई सहायता नहीं मिली	Health	High
+प्रोजेक्ट मूल्यांकन में पारदर्शिता नहीं है	Academics	High
+No mechanism for anonymous complaints against faculty	Administration	High
+হোস্টেলের ওয়ার্ডেন অভিযোগ শুনতে চান না	Hostel	High
+Lecturer reads directly from slides without explaining	Academics	High
+Library does not allow food or water inside	Library	Low
+Bus pass fee was increased without announcement	Finance	Medium
+লাইব্রেরির ক্যাটালগ পুরনো এবং আপডেট নয়	Library	Medium
+Smart class system not updated with recent content	Academics	Medium
+No alumni talk organized this semester	Academics	Low
+Exam centre allocation done without student input	Academics	Medium
+No proper induction program for new PhD scholars	Academics	Medium
+Final year marks not updated for 3 months	Academics	High
+No annual sports day organized this year	Extracurricular	Low
+Faculty refusing to mark attendance due to personal dispute	Academics	High
+পরীক্ষার প্রশ্নপত্রের মান অনেক কম ছিল	Academics	Medium
+College canteen has no GST invoice option	Finance	Low
+Campus has no dedicated walking track for exercise	Extracurricular	Low
+Correction in name spelling on certificate delayed	Administration	Medium
+Exam hall lighting is inadequate for writing	Infrastructure	High
+Guest lecture slides not shared after event	Academics	Low
+ক্যাম্পাসে প্রাথমিক চিকিৎসার সুবিধা নেই	Health	High
+No co-curricular credits recognized in degree	Academics	Medium
+No fire extinguishers in the laboratory block	Infrastructure	High
+ई-पुस्तकालय तक पहुंच हॉस्टल से नहीं होती	Library	High
+No open elective from management department	Academics	Medium
+College has no defined protocol for natural disasters	Administration	High
+No proper shading near outdoor seating	Infrastructure	Low
+College sports team not given financial support	Extracurricular	Medium
+মেস কমিটিতে শিক্ষার্থীদের প্রতিনিধিত্ব নেই	Hostel	Low
+College library does not provide citation tools access	Library	Medium
+कैंटीन में खाने की गुणवत्ता बहुत खराब है	Hostel	High
+No certificate for participating in cultural events	Extracurricular	Low
+नए छात्रों को हेल्पलाइन नंबर नहीं दिया गया	Administration	High
+End-semester project submission portal crashed on last day	Academics	High
+No transport for differently-abled students	Transport	High
+Project evaluation criteria not communicated clearly	Academics	High
+Application for re-admission rejected without explanation	Administration	High
+International students have no dedicated support cell	Administration	High
+পরীক্ষার উত্তরপত্র হারিয়ে গেছে বলে জানানো হয়েছে	Academics	High
+Final year project guide changed without informing student	Academics	High
+कैंपस में पक्षियों के लिए कोई व्यवस्था नहीं है	Environment	Low
+No ergonomic chairs for students in computer lab	Infrastructure	Low
+Student email quota is too small for large attachments	Administration	Medium
+छात्रावास में कोई indoor खेल सुविधा नहीं है	Extracurricular	Low
+বাসে ছাত্রীদের জন্য আলাদা বসার জায়গা নেই	Transport	High
+कोचिंग के लिए बाहर जाने पर प्रतिबंध है	Administration	Medium
+Mess bill does not match meals consumed	Finance	Medium
+Lab computers have outdated operating systems	Infrastructure	Medium
+No female conductor available on college bus	Transport	Medium
+সহপাঠ কার্যক্রমে অংশগ্রহণের সুযোগ কম	Extracurricular	Low
+Drinking water filter in block C is broken	Infrastructure	High
+Mosquito menace inside the hostel rooms	Hostel	Medium
+Hostel curfew timing is too strict for day scholars	Hostel	Low
+ऑनलाइन कक्षाओं में तकनीकी समस्याएं बार-बार आती हैं	Academics	High
+ক্যাম্পাসের মাঠ বর্ষায় কাদায় ভরে যায়	Infrastructure	Low
+Syllabus not completed before end semester exam	Academics	High
+Lab workbook evaluation not completed by mid-semester	Academics	Medium
+Departmental secretary does not answer student calls	Administration	Medium
+Hostel mess payment system is only cash based	Finance	Medium
+পরীক্ষার ফলাফল প্রকাশে অতিরিক্ত দেরি হচ্ছে	Academics	High
+No formal system for student nomination for awards	Extracurricular	Low
+College phone directory is outdated	Administration	Low
+No fire safety drill conducted this year	Infrastructure	High
+পরীক্ষার পরে প্রশ্নপত্র দেখার সুযোগ নেই	Academics	Medium
+ग्रीष्मकाल में हॉस्टल में AC उपलब्ध नहीं है	Hostel	Medium
+Lab chairs are uncomfortable for long sessions	Infrastructure	Low
+Remote exam proctoring software invasion of privacy	Academics	Medium
+Result gazette not published for supplementary exams	Academics	High
+Course feedback form is not anonymous	Academics	Medium
+হোস্টেলে রাতে নিরাপদ পরিবেশ নেই	Hostel	High
+Course completion certificate not given on time	Academics	High
+Scholarship disbursement delayed by more than 3 months	Finance	High
+Student health card not issued after registration	Health	Medium
+No annual ranking report published for departments	Administration	Low
+परीक्षा के दिन भोजन की व्यवस्था कैंपस में नहीं	Hostel	Medium
+ক্যান্টিনে শুধু একটি মেনু আইটেম পাওয়া যায়	Hostel	Low
+Faculty profile on website is outdated by years	Administration	Low
+Hostel toilet lights are flickering and unsafe	Hostel	Medium
+मेस का खाना देर से तैयार होता है	Hostel	Medium
+প্লেসমেন্ট কলে শুধু নির্দিষ্ট বিভাগকে ডাকা হয়	Placement	High
+कैंटीन में सफाई का स्तर बहुत कम है	Hostel	High
+ক্যাম্পাসে ওষুধের দোকান নেই	Infrastructure	Medium
+No free printing quota for final year students	Finance	Low
+No cooling fans in girls common room	Hostel	Medium
+Students not informed about change in exam pattern	Academics	High
+Examination fee charged twice for same paper	Finance	High
+Exam timetable changed at the last minute	Academics	High
+Supplementary exam fee is unreasonably high	Academics	High
+Laboratory safety training not conducted for freshers	Academics	High
+ল্যাবে পর্যাপ্ত কম্পিউটার নেই সবার জন্য	Infrastructure	High
+No mechanism to report exam malpractice anonymously	Academics	High
+Classroom wall sockets do not supply power	Infrastructure	Medium
+No composting system near botanical garden	Environment	Low
+Hostel fee was increased without prior notice	Hostel	High
+Projector bulb in seminar hall needs replacement	Infrastructure	Medium
+ক্যাম্পাসে পরিবেশ দূষণ বাড়ছে	Environment	Medium
+No provision for uninterrupted power in server room	Infrastructure	High
+No proper system to track lost items on campus	Administration	Low
+College counselor not available during exam week	Health	High
+Canteen prices have increased without any notice	Finance	Medium
+No structured peer review process for final projects	Academics	Low
+No career fair organized on campus this year	Placement	High
+Assignment portal does not allow resubmission	Academics	Medium
+থিসিস জমার সময়সীমা হঠাৎ কমানো হয়েছে	Academics	High
+বাসে ধারণক্ষমতার বেশি যাত্রী ওঠানো হয়	Transport	High
+হোস্টেলে মোবাইল নেটওয়ার্ক নেই	Infrastructure	High
+College store does not stock lab materials	Infrastructure	Medium
+Mess menu does not meet dietary requirements	Hostel	Medium
+No printing facility in hostel block	Hostel	Medium
+No coding bootcamp organized for placement prep	Academics	Medium
+শিক্ষকের সাথে যোগাযোগের কোনো সহজ উপায় নেই	Academics	Medium
+No e-waste disposal system in college	Environment	Low
+প্রকল্পের জন্য বাজেট বরাদ্দ পাওয়া যায়নি	Finance	High
+No career talk from government sector organized	Placement	Low
+Campus pond is polluted and not being cleaned	Environment	Medium
+शिक्षक ने बिना नोटिस के क्लास रद्द कर दी	Academics	Medium
+হোস্টেলের শৌচাগার নোংরা থাকে সবসময়	Hostel	High
+स्नातकोत्तर छात्रों के लिए कोई अलग स्टडी रूम नहीं	Library	Medium
+Academic calendar not shared at semester start	Administration	Medium
+ক্লাসে উপস্থিত ছিলাম কিন্তু অনুপস্থিত দেখাচ্ছে	Academics	High
+Rooftop garden project abandoned midway	Environment	Low
+No record of hostelers' visitors maintained	Hostel	High
+Bus driver does not follow traffic signals	Transport	High
+Bus timings do not match return journey needs	Transport	Medium
+Lab experiment data lost due to system crash	Academics	High
+छात्र शिकायत पेटी हफ्तों से नहीं खुली	Administration	Medium
+Hostel gate security does not verify visitor IDs	Hostel	High
+প্লেসমেন্টের জন্য যোগাযোগের সুযোগ কম	Placement	High
+छात्रवृत्ति फॉर्म में तकनीकी समस्या है	Finance	High
+Anti-ragging helpline number is wrong on notice board	Administration	High
+परीक्षा फॉर्म भरने की प्रक्रिया बहुत जटिल है	Academics	Medium
+Scholarship amounts are not sufficient for living costs	Finance	Medium
+No provision for students to flag abusive content in LMS	Administration	High
+WiFi password not shared with new students on time	Infrastructure	Medium
+Student exchange program applications not acknowledged	Administration	High
+Canteen does not accept digital payments	Finance	Medium
+No provision for online fee payment refund	Finance	High
+ক্লাসে বই ছাড়া নোটস শেয়ার করা হয় না	Academics	Medium
+हॉस्टल में साफ बिस्तर की चादर नहीं मिलती	Hostel	Medium
+प्रयोगशाला में उपकरण बिना सूचना के हटा दिए गए	Academics	Medium
+Administration does not act on repeated complaints	Administration	High
+থিসিস জমা দেওয়ার পোর্টাল বন্ধ ছিল	Academics	High
+No student advisory committee in academic department	Administration	Medium
+हॉस्टल के कमरे में दरवाज़ा ठीक से बंद नहीं होता	Hostel	High
+मेस का मेन्यू छात्रों की पसंद के अनुसार नहीं है	Hostel	Low
+Career counseling cell not active this academic year	Placement	High
+No provision for home stay during semester break	Hostel	Low
+Result displayed publicly instead of privately	Academics	High
+Lab experiments are repeated from previous years	Academics	Low
+বৃত্তির আবেদনের ফর্ম সময়মতো দেওয়া হয়নি	Finance	High
+হোস্টেলে রাতে গরম খাবার পাওয়া যায় না	Hostel	Medium
+परीक्षा परिणाम में रजिस्ट्रेशन नंबर गलत है	Academics	High
+ভর্তির সময় প্রদত্ত তথ্য পরে পরিবর্তন করা হয়েছে	Administration	High
+पुस्तकालय में शीतल पेयजल उपलब्ध नहीं है	Infrastructure	Medium
+No central help desk for technical issues	Administration	Medium
+Online exam system does not auto-save answers	Academics	High
+Computer lab printers are not working	Infrastructure	Medium
+लाइब्रेरी का कंप्यूटर बहुत पुराना है	Library	Medium
+No audio-visual aids in language classes	Academics	Low
+প্রজেক্ট সাবমিশনের তারিখ বারবার পরিবর্তন হচ্ছে	Academics	Medium
+Speed of campus wifi drops severely after 6 PM	Infrastructure	High
+No provision for re-registration after de-registration	Administration	High
+No foreign language course offered in college	Academics	Low
+পরিবেশ দিবসে কোনো কার্যক্রম আয়োজন করা হয়নি	Environment	Low
+हॉस्टल में सीसीटीवी काम नहीं कर रहे	Hostel	High
+Guest faculty not attending assigned lectures	Academics	High
+कैंटीन में शाकाहारी विकल्प बहुत कम हैं	Hostel	Medium
+Course completion not updated on portal after exam	Academics	Medium
+Exam schedule overlaps between two departments for same student	Academics	High
+Digital library portal requires VPN to access	Library	Medium
+रात को क्लास के बाद परिसर में रोशनी नहीं होती	Infrastructure	High
+ক্যাম্পাসে কোনো ব্যাংক বা এটিএম নেই	Infrastructure	Medium
+No campus radio or student media initiative	Extracurricular	Low
+Roof fan in class rotates too slowly to provide air	Infrastructure	Low
+ফি মওকুফের আবেদন মাসের পর মাস পড়ে আছে	Finance	High
+छात्रावास में वेंटिलेशन की समस्या है	Hostel	Medium
