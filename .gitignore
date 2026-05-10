@@ -24,6 +24,7 @@ venv311/
 .env
 .env.local
 .env.*.local
+*.env
 
 # Flask / ML model files (large binaries)
 *.pkl
